@@ -3,6 +3,7 @@ def showresult():
     print(f"{xcgame[0]}|{xcgame[1]}|{xcgame[2]}    D0|D1|D2")
     print(f"{xcgame[3]}|{xcgame[4]}|{xcgame[5]}    D3|D4|D5")
     print(f"{xcgame[6]}|{xcgame[7]}|{xcgame[8]}    D6|D7|D8")
+    # hamza hawasheen
 def win():
     global result
     if choice == 'X':
